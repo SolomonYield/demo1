@@ -43,7 +43,7 @@ Home Page:
 # Basic settings
 description:  This is personal blog.
 baseurl: "/"
-url: "https://lavkumarv.github.io"
+url: "https://diligentyield.com"
 twitter_username: LAV_K_V
 github_username:  lavkumarv
 include: ['_pages']
@@ -90,13 +90,13 @@ kramdown:
 Global Configuration( global.yml):
 ``` yaml
 # Site Settings
-title: 'Lav Vishwakarma'
-description: 'My personal Blog'
-url: 'https://lavkumarv.github.io'
+title: 'Diligent Yield'
+description: 'Newsletter'
+url: 'https://diligentyield.com'
 
 # Admin Settings
-admin_name: 'Lav Vishwakarma'
-admin_email: 'lav.kumar.dev@gmail.com'
+admin_name: 'Diligent Yield'
+admin_email: 'solomonbrotherstrading@gmail.com'
 
 #####################################################################
 #About Page
