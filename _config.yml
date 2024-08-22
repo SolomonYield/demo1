@@ -1,9 +1,9 @@
 # Basic settings
-description:  This is personal blog.
+description:  Daily newsletter of SolomonBrothers.
 baseurl: "/"
-url: "https://lavkumarv.github.io" 
-twitter_username: LAV_K_V
-github_username:  lavkumarv
+url: "https://diligentyield.com" 
+twitter_username: sol91206
+github_username:  SolomonYield
 include: ['_pages']
 
 # Build settings
